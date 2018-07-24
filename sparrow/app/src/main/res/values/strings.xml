@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sparrow</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="introduce_valor">_Introduce un texto</string>
+</resources>
